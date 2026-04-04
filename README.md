@@ -1,8 +1,2 @@
-# HFUT-ISaT-Code
-## 本仓库整理：合肥工业大学-智能科学与技术-Code
-- C/C++ 大一上
-- java 大一下
-- Python 大二上 （该实验代码基于PyQT5实现GUI界面，在运行时请获取相关依赖）
-## tips:
-- 所有代码均可以正常运行，并成功通过线下验收，取得较高分数。
-- 验收之前请保证熟悉代码逻辑。
+# Hello👋welcome to HFUT-ISaT-Repository
+## This repository is dedicated to organizing course materials related to the major of Intelligent Science and Technology（ISaT,智能科学与技术）.
